@@ -37,7 +37,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tb36tms8m1rmw0cvv27txtj3f8.jpg",
+        "src": "https://i.ibb.co/XfRKN700/fb86662148be855d931b37d6c1e5fcbe.jpg",
         "alt": "Family sharing pizza and pasta at a cozy Italian restaurant"
       },
       {
@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769180254927_0",
+      "id": "q_auto_1769187207300_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769180254927_1",
+      "id": "q_auto_1769187207301_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769180254927_2",
+      "id": "q_auto_1769187207301_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
