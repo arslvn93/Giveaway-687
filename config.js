@@ -5,17 +5,17 @@ const config = {
     "privacyPolicyLink": "https://istreetrealty.ca/privacy-policy/"
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>$200 Family Dinner</span> — <span class='highlight'>Dinner on Us!</span>",
+    "heroHeadline": "Win a <span class='highlight'>$200 Family Dinner</span> - <span class='highlight'>Dinner on Us!</span>",
     "heroSubheadline": "Treat your family to Vivo Pizza + Pasta. Great food. Great vibe. No dishes. Enter now. Ends Feb 28, 2026.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/rycvkap5c9rmw0cvv279jvc5s4.jpg",
     "promotionDates": "Enter Jan 22–Feb 28, 2026. Winner drawn Feb 28, 2026.",
-    "endDate": "2026-02-29T04:59:00.000Z",
+    "endDate": "2026-03-01T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Family Now!",
     "name": "Family Feast Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
     "successModalMainMessage": "Your entry for the <strong>Family Feast Giveaway at Vivo Pizza + Pasta</strong> is in! Winner will be announced Feb 28, 2026 and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email on Feb 28, 2026—winner will be contacted by email."
+    "successModalEmailPrompt": "Watch your email on Feb 28, 2026 - winner will be contacted by email."
   },
   "settings": {
     "confettiColors": [
@@ -28,16 +28,11 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Family Feast Giveaway</strong> is in! We will draw the winner on Feb 28, 2026 and notify them by email. Good luck!",
-    "socialPromptText": "Watch your inbox on Feb 28, 2026. Follow our social pages for the winner post and future giveaways."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -69,7 +64,7 @@ const config = {
       },
       {
         "icon": "fas fa-smile",
-        "text": "No stress, no dishes — just enjoy"
+        "text": "No stress, no dishes - just enjoy"
       },
       {
         "icon": "fas fa-receipt",
@@ -83,15 +78,15 @@ const config = {
     "name": "Family Feast Giveaway at Vivo Pizza + Pasta",
     "value": "$200 Value",
     "description": "Picture this: warm pizza fresh from the oven, creamy pasta, happy kids, and zero cleanup. You sit. You laugh. You enjoy a cozy night out after the holidays. We cover up to $200 at a beloved local spot, Vivo Pizza + Pasta. Relax and make memories. We pick up the tab.",
-    "limitedTimeOfferText": "Winter Giveaway — Ends Feb 28!",
+    "limitedTimeOfferText": "Winter Giveaway - Ends Feb 28!",
     "ctaButtonText": "I Want This Dinner!"
   },
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill the Form",
-        "description": "Name and email. It takes 30 seconds."
+        "icon": "fab fa-instagram",
+        "title": "Follow me on Instagram",
+        "description": "Follow me @rickroccasalva"
       },
       {
         "icon": "fas fa-list-check",
@@ -128,8 +123,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents 18+; one entry per person.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -162,6 +155,8 @@ const config = {
       "Follow us on Instagram and Facebook for the winner post",
       "Share with a friend who loves pizza and pasta"
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents 18+; one entry per person.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw. Every valid entry has the same chance. One entry per person."
@@ -177,12 +172,12 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-687.netlify.app&text=Win%20%24200%20Family%20Dinner%20%E2%80%93%20Vivo%20Pizza%20%2B%20Pasta%21"
     },
     "subtitle": "Enter your details for a chance to win a $200 family dinner night out!",
-    "entryCountText": "Entries are coming in fast — don’t miss out!",
+    "entryCountText": "Entries are coming in fast - don’t miss out!",
     "socialSharePrompt": "Know a family who would love this? Share this giveaway:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1769179398999_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -204,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1769179398999_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -226,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1769179398999_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -248,6 +243,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Family Feast Giveaway</strong> is in! We will draw the winner on Feb 28, 2026 and notify them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on Feb 28, 2026. Follow our social pages for the winner post and future giveaways."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/iStreetRealty",
