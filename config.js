@@ -177,7 +177,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1769451000967_0",
+      "id": "q_auto_1769451138517_0",
       "questionText": "What's your current situation?",
       "options": [
         {
@@ -199,7 +199,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769451000967_1",
+      "id": "q_auto_1769451138517_1",
       "questionText": "What are you looking to do?",
       "options": [
         {
@@ -221,7 +221,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1769451000967_2",
+      "id": "q_auto_1769451138517_2",
       "questionText": "When are you planning to move?",
       "options": [
         {
@@ -251,9 +251,9 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Family Feast Giveaway</strong> is in! We will draw the winner on Feb 28, 2026 and notify them by email. Good luck!",
-    "socialPromptText": "Watch your inbox on Feb 28, 2026. Follow our social pages for the winner post and future giveaways."
+    "headerText": "Almost there!",
+    "mainMessage": "Your information for the Family Feast Giveaway has been received. Complete your entry below to be eligible for the Feb 28 draw.\n\n",
+    "socialPromptText": "Follow me @rickroccasalva on Instagram to complete your entry - only followers are eligible\n"
   },
   "footerContact": {
     "social": {
